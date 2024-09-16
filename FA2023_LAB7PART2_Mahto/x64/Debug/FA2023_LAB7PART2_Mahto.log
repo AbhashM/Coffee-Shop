@@ -1,0 +1,10 @@
+﻿  FA2023_RLCSaleCoffee_Mahto.cpp
+C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\FA2023_RLCSaleCoffee_Mahto.cpp(42,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\FA2023_RLCSaleCoffee_Mahto.cpp(43,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\FA2023_RLCSaleCoffee_Mahto.cpp(44,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\FA2023_RLCSaleCoffee_Mahto.cpp(46,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\FA2023_RLCSaleCoffee_Mahto.cpp(112,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\FA2023_RLCSaleCoffee_Mahto.cpp(113,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\FA2023_RLCSaleCoffee_Mahto.cpp(114,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\FA2023_RLCSaleCoffee_Mahto.cpp(116,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FA2023_LAB7PART2_Mahto.vcxproj -> C:\Users\anujm\source\repos\FA2023_LAB7PART2_Mahto\x64\Debug\FA2023_LAB7PART2_Mahto.exe
